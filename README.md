@@ -6,10 +6,10 @@ This project is a behavioral assessment APP called DISC, it was developed for th
 
 ## Installation
 
-[Upload the API that is in that repository](https://github.com/carlosfloresta/Webservice-DISC).
+- [Upload the API that is in that repository](https://github.com/carlosfloresta/Webservice-DISC).
 
 ```bash
-Replace "link API" from this project, with the link where you placed the repository API..
+Replace "link API" from this project, with the link where you placed the repository API.
 ```
 
 ## Usage
